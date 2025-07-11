@@ -25,7 +25,7 @@ This project implements a Wi-Fi-based vehicle locking system using a CC3200 Laun
 
 ## Documentation
 
-- [Presentation.pdf](./Mobile-Controlled%20Vehicle%20Lock.pptx): Project overview
+- [Presentation.pdf](./Mobile-Controlled%20Vehicle%20Lock.pdf): Project overview
 - [Use_Case_Report.pdf](./Use_case_Lock_Unlock_SatyajitSushantPardeshi.pdf): Use case analysis
 - [Evaluation Form](https://docs.google.com/forms/d/e/1FAIpQLSdD2zHet2PmTeMd5JAKvtmdkdgIiQL3tY3o4vFw8rr2UACuGg/viewform?usp=header)
 
